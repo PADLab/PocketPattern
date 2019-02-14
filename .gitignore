@@ -28,4 +28,5 @@ hs_err_pid*
 *.xlsx
 *.txt
 
-
+#Mac nonsense
+.DS_Store
